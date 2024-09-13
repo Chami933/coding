@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  position: relative;
+  box-sizing: border-box;
+}
+
+/* Tag Selector */
+
+header,
+footer {
+  background-color: rgb(47, 47, 47);
+  height: 50px;
+  color: white;
+  text-align: center;
+}
+
+/* Class Selector */
+
+.titulo {
+}
+
+.texto_intro {
+}
+
+/* ID Selector */
+
+#id {
+  color: green;
+}
